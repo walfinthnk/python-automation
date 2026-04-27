@@ -1,0 +1,2 @@
+# 依存ライブラリ
+# pip install -r requirements.txt でインストール可能
